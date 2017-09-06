@@ -1,4 +1,4 @@
 function getFirstSelector(selector) {
-const div =  document.querySelector('div')
-return div
+const ul =  document.querySelector('ul')
+return ul
 }
