@@ -14,3 +14,7 @@ var lis = document.querySelectorAll('ul.ranked-list li')
     lis[i].innerHTML = parseInt(lis[i].innerHTML) + n;
   }
 }
+
+function deepestChild() {
+  document.querySelector('div#grand-node div div div div')
+}
